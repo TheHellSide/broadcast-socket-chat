@@ -85,8 +85,8 @@ On first connection, each client is prompted for a display name, then can send c
 - **Port:** `5000`
 
 These values are defined in source code:
-- `/src/Client.java`
-- `/src/Server.java`
+- `src/Client.java`
+- `src/Server.java`
 
 ---
 
